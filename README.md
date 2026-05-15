@@ -35,4 +35,4 @@ To resolve the instability of high-degree polynomials, the project utilizes a cu
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/census-population-modeling.git](https://github.com/yourusername/census-population-modeling.git)
+   git clone [https://github.com/yourusername/census-population-modeling.git](https://github.com/aolivares1042/census-population-modeling.git)
